@@ -1,0 +1,16 @@
+
+#wrap{
+    width:800px;
+    margin: 0 auto;
+    position: relative;
+    height: 600px;
+}
+
+
+#wrap img{
+    width: 800px;
+    position: absolute;
+}
+#wrap2{
+    text-align: center;
+}
